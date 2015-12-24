@@ -43,8 +43,9 @@ The whole implementation looks like this:
 ####A Bit More
 This is part of some old code I am open sourcing for fun since the projects they are used in are about to be deleted or 
 entirely refactored. This particular code was some of the first iOS code I ever wrote several years ago. That said,
-it's very scattered and not very structured, so feel free to hack away as you see fit.
+it's very scattered and not very structured, so feel free to hack away at it as you see fit.
 
+This was originially built for my first iOS app, [Spend Stack](https://itunes.apple.com/us/app/spend-stack/id825371644?mt=8), which reached #18 in paid apps under Finance when it released.
 
 ###Can I tweet at you?
 Please do, [@jordanmorgan10](https://twitter.com/jordanmorgan10). As the mantra goes - pull requests welcome (it needs a lot of love).
