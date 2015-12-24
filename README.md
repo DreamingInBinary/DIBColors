@@ -27,9 +27,9 @@ Just import the `UIView` category:
 Call it's only method on a `UIView` - this is designed to be called on `ViewController`'s `UIView`. The completion handler you
 give it will be called when a color scheme is tapped, and it returns an array of the color theme:
 
-- 1st index == Primary color
-- 2nd index == Seconary color
-- 3rd index == Tertiary color (this is always white)
+- 1st index == Primary `UIColor`
+- 2nd index == Seconary `UIColor`
+- 3rd index == Tertiary `UIColor` (this is always white)
 - 4th index == Use lightkeyboard `BOOL` (I didn't end up using this but it's still in the source)
 
 The whole implementation looks like this:
