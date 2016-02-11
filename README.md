@@ -7,7 +7,7 @@ No auto layout or frame manipulation required.
 
 ####Installation
 
-**Cocoapods**:
+**CocoaPods**:
 
     pod 'DIBColors'
     
